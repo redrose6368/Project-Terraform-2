@@ -40,6 +40,6 @@ variable "prod-priv-sub2-cidr" {
 variable "region" {
   type        = string
   description = "name of region"
-  default     = "eu-west-1"
+  default     = "eu-west-2"
 
 }
